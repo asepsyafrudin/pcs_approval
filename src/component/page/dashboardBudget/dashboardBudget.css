@@ -1,0 +1,13 @@
+.container-dashboard-budget {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  color: #10182f;
+  background-image: url('../../../asset/background/dashboard1-min.jpg');
+  background-size: contain;
+  background-repeat: repeat;
+  height: 100vh;
+
+}

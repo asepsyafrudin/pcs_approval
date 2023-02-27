@@ -1,0 +1,23 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+.dashboard-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  color: #10182f;
+  background-image: url('../../../asset/background/dashboard1-min.jpg');
+  background-size: contain;
+  background-repeat: repeat;
+  height: 100vh;
+}
+
+.dashboard-container {
+  display: flex;
+  justify-content: space-evenly;
+}

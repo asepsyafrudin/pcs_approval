@@ -1,0 +1,13 @@
+.section-content-container {
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.section-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}

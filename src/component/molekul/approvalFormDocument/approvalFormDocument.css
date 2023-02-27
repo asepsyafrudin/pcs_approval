@@ -1,0 +1,15 @@
+.formdocument-container-approval  {
+    height: fit-content;
+    padding-right:100px;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+
+.form-document{
+    background-color: aliceblue;
+    position: relative;
+    bottom: 5px;
+}

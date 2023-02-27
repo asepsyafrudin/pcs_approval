@@ -1,0 +1,17 @@
+.section-title {
+    background-color: aliceblue;
+    font-size: 25px;
+    padding-bottom: 5px;
+    padding-left: 100px;
+    padding-top: 2px;
+    padding-right: 80px;
+    margin-top: 60px;
+}
+
+.section-title-left {
+display: inline-block;
+}
+
+.section-title-right {
+float: right;
+}

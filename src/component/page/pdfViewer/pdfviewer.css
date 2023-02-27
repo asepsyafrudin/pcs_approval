@@ -1,0 +1,20 @@
+.pdf-view {
+    margin-top: 60px;
+}
+
+
+@media print {
+    body * {
+      visibility: hidden;
+    }
+    .sectionPrint * {
+      visibility: visible;
+      margin-top: -10px;
+      margin-left: -5px;
+      
+    }
+  }
+
+  .button-view {
+    margin-left: 50px;
+  }

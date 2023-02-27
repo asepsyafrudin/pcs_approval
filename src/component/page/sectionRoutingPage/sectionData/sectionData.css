@@ -1,0 +1,12 @@
+.section-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-search-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
